@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom"
 
 function LandingPage() {
     return (
@@ -27,7 +28,7 @@ function LandingPage() {
                 src="https://avatars3.githubusercontent.com/u/60553154?s=460&u=25e6ccd99bbb382d9a51f4039488a51a0e6994e7&v=4"
                 alt="Alex Partida"
             />
-            <button>Check out My Projects</button>
+            <Link to="/portfolio"> <button>Check out My Projects</button> </Link>
             <p class="footer">
                 This page was built by <span class="myname">Alex Partida</span>
             </p>
