@@ -10,7 +10,9 @@ I ended up buying the domain as my name to host the portfolio on. I delployed my
 
 ### npm install
 
-Installs npm.
+Installs the dependencies in the local node_modules folder.
+
+By default, npm install will install all modules listed as dependencies in package.json.
 
 ### npm run start
 
