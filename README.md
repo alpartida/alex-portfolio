@@ -1,6 +1,6 @@
 # Alex's Developer Porfolio
 
-This project I created after finishing my 6 month coding bootcamp at Redwood Code Academy. I built it using React. It showcases two of my favorite projects and my resume in pdf format. Its still a work in progress, but a good start so far.
+This project I created after finishing my 6 month coding bootcamp at Redwood Code Academy. I built it using React. It showcases two of my favorite projects and my resume in pdf format. It's still a work in progress, but a good start so far.
 
 ## Deployment
 
