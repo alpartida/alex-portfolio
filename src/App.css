@@ -83,3 +83,9 @@ button:hover {
   margin: 50px auto;
   padding: 12px 20px;
 }
+
+.react-pdf__Document {
+  justify-content: center;
+  display: flex;
+}
+
