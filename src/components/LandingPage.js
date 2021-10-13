@@ -21,8 +21,8 @@ function LandingPage() {
         things web. Skilled in WordPress, HTML, CSS, Javascript, Adobe
         Photoshop, and React. I've built a few apps, such as a weather app, dog
         api app, github-clone app, and many more. Check out my projects page for
-        a full list of my applications and feel free to follow me on <a href="https://github.com/alpartida">github</a>.
-        <br />
+        a full list of my applications and feel free to follow me on <a href="https://github.com/alpartida">github.</a>
+                <br />
             </p>
             <img
                 src="https://avatars3.githubusercontent.com/u/60553154?s=460&u=25e6ccd99bbb382d9a51f4039488a51a0e6994e7&v=4"
